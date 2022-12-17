@@ -2,11 +2,13 @@
 ## Car rental dynamic website- Travelogue
 ![image](https://user-images.githubusercontent.com/96621003/208238851-2fa57377-663b-410a-b8e7-ab2751f28199.png)
 
+
 ### Technology stack
-#### . HTML
-#### . CSS
-#### . PHP
-#### . MYSQL
+##### => HTML
+##### => CSS
+##### => PHP
+##### => MYSQL
+
 
 ### Screenshots
 ![2022-06-03](https://user-images.githubusercontent.com/96621003/208238147-c7d2f7ac-cf09-43f7-8ee9-2c5c02d0b5c1.png)

@@ -6,6 +6,7 @@
 ### Technology stack
 ##### => HTML
 ##### => CSS
+##### => JS
 ##### => PHP
 ##### => MYSQL
 
